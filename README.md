@@ -1,6 +1,6 @@
+![](images/ohdsi-horizontal-line.PNG)
 # ![](images/ohdsi-arrow-small.PNG) Welcome to the 2020 OHDSI Ecosystem Tutorial
 
-![](images/ohdsi-horizontal-line.PNG)
 
 This repository contains all of the instructional material for the 2020 OHDSI Symposium Ecosystem Tutorial. The tutorial will present a broad overview of the tools in the OHDSI ecosytem, how they fit together, and how to set up these tools in your own organization. It is organized into 5 sections.
 
